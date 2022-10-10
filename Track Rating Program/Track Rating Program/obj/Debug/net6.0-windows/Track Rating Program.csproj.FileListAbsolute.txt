@@ -1,0 +1,18 @@
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\bin\Debug\net6.0-windows\Track Rating Program.exe
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\bin\Debug\net6.0-windows\Track Rating Program.deps.json
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\bin\Debug\net6.0-windows\Track Rating Program.runtimeconfig.json
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\bin\Debug\net6.0-windows\Track Rating Program.dll
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\bin\Debug\net6.0-windows\Track Rating Program.pdb
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\obj\Debug\net6.0-windows\Track Rating Program.csproj.AssemblyReference.cache
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\obj\Debug\net6.0-windows\Track_Rating_Program.Form1.resources
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\obj\Debug\net6.0-windows\Track_Rating_Program.Properties.Resources.resources
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\obj\Debug\net6.0-windows\Track Rating Program.csproj.GenerateResource.cache
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\obj\Debug\net6.0-windows\Track Rating Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\obj\Debug\net6.0-windows\Track Rating Program.AssemblyInfoInputs.cache
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\obj\Debug\net6.0-windows\Track Rating Program.AssemblyInfo.cs
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\obj\Debug\net6.0-windows\Track Rating Program.csproj.CoreCompileInputs.cache
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\obj\Debug\net6.0-windows\Track Rating Program.dll
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\obj\Debug\net6.0-windows\refint\Track Rating Program.dll
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\obj\Debug\net6.0-windows\Track Rating Program.pdb
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\obj\Debug\net6.0-windows\Track Rating Program.genruntimeconfig.cache
+C:\Users\finle\source\repos\Track Rating Program\Track Rating Program\obj\Debug\net6.0-windows\ref\Track Rating Program.dll
